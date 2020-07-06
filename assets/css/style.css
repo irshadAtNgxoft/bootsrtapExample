@@ -1,0 +1,335 @@
+/* a:hover{
+    text-decoration: none;
+}
+.section{
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.section h2.section-head{
+    color: #000;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.section h2.section-head:after{
+    background: #e74c3c;
+    content: "";
+    display: block;
+    width: 100px;
+    height: 3px;
+    margin: 20px auto;
+}
+#header{
+    color: #fff;
+    background:#e74c3c;
+}
+#logo{
+    font-size: 2rem;
+    margin-top: 5px;
+}
+#manu{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+#manu li{
+    display: inline-block;
+}
+#manu li a{
+    color: #fff; 
+    padding: 20px 10px;
+    display: block;
+}
+#manu li a:hover{
+    background-color: #c0392b;
+}
+#banner{
+    background: url("./images/banner.jpg") no-repeat 0 0;
+    background-size: cover;
+}
+.banner-title{
+    padding-top: 5rem;
+}
+.banner-title h1{
+    background: rgba(red, green, blue,0.8);
+    padding: 10px;
+    margin: 0;
+}
+.banner-title p.lead{
+    color: white;
+    background: rgba(331, 76, 60, 0.7);
+    padding: 10px;
+}
+.service-box{
+    text-align: center;
+}
+.service-box i.fa{
+    color: #e74c3c;
+    font-size: 50px;
+    margin-bottom: 15px;
+}
+.testimonials{
+    color: white;
+    background: url(../Bootstrap/images/mexico.jpg) no-repeat 0 0;
+    background-size: cover;
+    padding: 50px 0;
+    position: relative;
+}
+.testimonials:before{
+    background: #34495e;
+    content: "";
+    position: absolute;
+    top: 0;
+    width: 1685px;
+    height: 340px;
+}
+.testimonial img{
+    border-radius: 50%;
+}
+.testimonials h2{
+    text-align: center;
+}
+.news-post img{
+    width: 100%;
+    margin-bottom: 10px;
+}
+.news-post h3{
+    font-size: 1.35rem;
+}
+.news-post h3 a{
+    color: #e74c3c;
+}
+.post-date{
+    font-size: 13px;
+    margin-bottom: 2px;
+}
+#footer-sidebar{
+    color: white;
+    background: #34495e;
+    padding: 20px 0;
+}
+.footer-widget h4:after{
+    content: "";
+    color: white;
+    display: block;
+    width: 50px;
+    height: 15px;
+    margin: 5px;
+}
+.list{
+    list-style: none;
+    padding: 0%;
+    margin: 0%;
+}
+.footer{
+    color: white;
+    background: #2c3e50;
+    padding: 10px;
+}
+.social-icon{
+    list-style: none;
+    color: white;
+    margin: 0%;
+    padding: 0%;
+}
+.social-icon{
+    display: inline-block;
+    padding-left: 5px;
+}
+.social-icon li a{
+    color: white;
+    font-size: 20px;
+} */    
+
+
+.footer{
+    background: url("./../images/background1.jpg");
+    background-size: cover;
+    width: auto;
+    height: 800px;
+    
+}
+.footer:befor{
+    background-color: rgba(#97a5a7d7, alpha);
+
+}
+.containerbtn h2{
+    margin-top: 30px;
+    color: teal;
+}
+.btn-outline-dark{
+    font-size: 29px !important;
+    font-weight: 600;
+    color: burlywood !important;
+}
+.custom-table{
+    border: 2px solid black;
+    background-color: rgb(121, 84, 156);
+    margin-top: 30px;
+}
+.tableg{
+    text-align: center;
+    padding-top: 40px;
+}
+.story{
+    font-weight: bolder;
+    font-style: oblique;
+    font-size: 40px;
+    margin-top: 50px;
+}
+.right{
+    padding-top: 15px;
+    font-size: 40px;
+}
+.top{
+    border-bottom: 5px solid black;
+    width: 100px;
+    
+}
+.read{
+    border: 3px solid black;
+    width: 50px;
+    font-size: 50px;
+}
+.our{
+    text-align: center;
+    font-size: 40px;
+    border-bottom: 4px solid black;
+    
+}
+.banner{
+    background: url(../Bootstrap/images/partylady.jpeg) no-repeat 0 0;
+    background-size: cover;
+    height: 500px;
+}
+.centerone{
+    text-align: center;
+    color: white;
+    margin-top: 120px;
+    background: black;
+    border: 3px solid white;
+    width: 600px;
+    
+}
+.heading{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 30px;
+    padding-left: 100px;
+    margin-bottom: 20px;
+    font-weight: bolder;
+}
+.para{
+    text-align: center;
+    justify-content: center;
+    font-size: 30px;
+    padding-left: 150px;
+    font-weight: bold;
+}
+.TABLE{
+    text-align: center;
+    font-weight: bolder;
+    background: cadetblue;
+}
+.headingtwo{
+    text-align: center;
+    font-weight: bold;
+}
+.paraone{
+    text-align: center;
+    font-size: 40px;
+}
+.tableone{
+    text-align: center;
+    background: khaki;
+    font-weight: bold;
+    width: 400px;
+    height: 100px;
+}
+.container-fluidone{
+    background: #7f8c8d;
+    color: white;
+}
+.most{
+    padding-top: 250px;
+    padding-left: 60px;
+    font-size: 20px;
+}
+.pop{
+    padding-top: 60px;
+    font-size: 20px;
+    padding-left: 170px;
+}
+.terms{
+    font-size: 20px;
+}
+.sub{
+    margin-left: 150px;
+}
+.bg-img-custom{
+    background: url('../Bootstrap/images/milk.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+span{
+    font-size: 15px;
+}
+.container-fluidfour{
+    background: black;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.col-md-6{
+    padding-left: 250;
+    padding-right: 2px;
+}
+.custom-button{
+    float: left;
+}
+.inputbtn{
+    width: 90%;
+}
+ .btn{
+    color: #fff !important;
+}
+.fa{ 
+    margin-top: 16px;
+    font-size: 28px;
+
+}
+.form-section div.input-btn-1{
+    background: grey;
+}
+
+.fit-image{
+    width: 100%;
+    height: 100%;
+}
+.custom-btn{
+    color: #000 !important;
+    font-weight: 600;
+    background: #fff;
+    border-color: #000;
+    margin-right: 40px;
+}
+.custom-btn:hover,
+.custom-btn:focus{
+    color: #fff !important;
+    font-weight: 600;
+    background: grey;
+    border-color: grey;
+    margin-right: 40px;
+}
+.our-mommnet{
+    text-align: center;
+    font-size: 28px;
+    font-weight: 500;
+}
+
+.images-custom {
+    height: 200px !important;
+   
+}
+.image-css{
+    height: 311px;
+    width: 100%;
+}
