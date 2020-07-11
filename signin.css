@@ -1,0 +1,43 @@
+.banner{
+    height: 100vh;
+    background-image:url(./assets/images/signin.jpg);
+    background-size: cover;
+    background-position: center;
+    
+    width: 100%;
+    background-repeat: no-repeat;
+}
+.formcutom{
+    background: #fff;
+    margin-top: 100px;
+    padding: 10px;
+     
+}
+.formfirst{
+    border: 2px solid gray;
+    border-right: none;
+}
+.form2nd{
+    border-right: 2px solid gray;
+    border-top: 2px solid gray;
+    border-bottom: 2px solid gray;
+}
+.formcutom label{
+    font-size: 14;
+    font-weight: 600;
+}
+.formcutom input{
+    border: 0;
+    border-bottom: 2px solid;
+    
+}
+.btn-default{
+    color: black;
+    border: 2px solid;
+}
+.btnsize{
+    color: black;
+}
+
+
+
